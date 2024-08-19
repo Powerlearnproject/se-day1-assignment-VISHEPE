@@ -5,12 +5,14 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+
 -Software engineering systematically applies engineering principles, methods, and tools to develop and maintain high-quality software systems. It involves software product design, development, testing, deployment, and maintenance.
+
 (i)Software engineering plays an important role in the technology industry by enabling the creation of software applications and systems that power various aspects of modern life, including communication, commerce, entertainment, and healthcare.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
--
-Here are three key milestones in the evolution of software engineering:
+
+-Here are three key milestones in the evolution of software engineering:
 
 1968 NATO Software Engineering Conference: This conference introduced the term "software engineering" and emphasized the need for systematic approaches to manage software complexity.
 
@@ -21,22 +23,29 @@ Here are three key milestones in the evolution of software engineering:
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+
 -The Software Development Life Cycle  includes:
 -Requirements/information gathering
 Gathering and analyzing the needs and requirements of stakeholders to understand what the software should do.
 Objective: To ensure that the development team clearly understands the project's goals and user needs.
+
 -Design:
 Creating detailed design documents that outline the architecture, components, interfaces, and data structures of the software.
 Objective: To provide a blueprint for developers to follow during the coding phase, ensuring a structured and scalable system.
 -Implementation (or Coding):
+
 Translating the design documents into actual code using programming languages and tools.
 Objective: To build the software according to the design specifications and requirements.
+
 -Testing:
 Evaluating the software to identify and fix defects and ensure it meets the specified requirements.
 Objective: To verify that the software is functional, reliable, and free of critical errors.
+
 -Deployment:
 Releasing the software to a production environment where it will be used by end-users.
 Objective: To make the software available for use and ensure it operates correctly in the real-world setting.
+
 -Maintenance:
 Providing ongoing support and updates to address issues, improve performance, and adapt to changes in user needs or technology.
 Objective: To ensure the software remains functional, secure, and relevant over time.
@@ -51,8 +60,8 @@ Approach: Sequential and linear. Each phase (e.g., requirement analysis, design,
 Advantages: Clear structure and easy to manage for projects with well-defined requirements.
 Disadvantages: Inflexible to changes; difficult to accommodate new requirements once development starts.
 Appropriate Scenario: Projects with fixed requirements and little expected change, such as regulatory software or infrastructure projects.
-Agile Methodology:
 
+Agile Methodology:
 Approach: Iterative and flexible. Development is divided into small, manageable iterations or sprints, with frequent reassessment and adaptation.
 -Advantages: Allows for continuous feedback and changes based on evolving requirements.
 -Disadvantages: Can be less predictable and requires frequent stakeholder involvement.
@@ -66,8 +75,6 @@ Describe the roles and responsibilities of a Software Developer, a Quality Assur
 -Quality Assurance Engineer: Tests software to identify defects and ensure it meets quality standards. Creates test cases, performs manual and automated testing, and verifies bug fixes.
 
 -Project Manager: Manages project scope, schedule, and resources. Coordinates team activities, communicates with stakeholders, and ensures project goals are met on time and within budget.
-
-
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
